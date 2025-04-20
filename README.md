@@ -18,7 +18,7 @@ Each scenario is simulated in MATLAB and includes specific challenges to test th
 Simulates merging lanes and fast-moving traffic.  
 Tests long-range object detection and lane-level accuracy.
 
-![Highway Scenario](images/highway.png)
+![Highway Scenario](description_images/Motorway_cutin.png)
 
 ---
 
@@ -27,7 +27,7 @@ Tests long-range object detection and lane-level accuracy.
 Represents narrow roads, sharp turns, and slower traffic.  
 Evaluates detection in cluttered and low-reflectivity environments.
 
-![Village Roads Scenario](images/village.png)
+![Village Roads Scenario](description_images/Rural_road.png)
 
 ---
 
@@ -36,7 +36,7 @@ Evaluates detection in cluttered and low-reflectivity environments.
 Models urban intersections with crossing traffic.  
 Analyzes performance in wide fields-of-view and occlusion handling.
 
-![Cross-Section Intersection Scenario](images/cross_section.png)
+![Cross-Section Intersection Scenario](description_images/Cross_section.png)
 
 ---
 
