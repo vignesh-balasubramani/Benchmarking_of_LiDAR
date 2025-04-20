@@ -18,7 +18,7 @@ Each scenario is simulated in MATLAB and includes specific challenges to test th
 Simulates merging lanes and fast-moving traffic.  
 Tests long-range object detection and lane-level accuracy.
 
-![Highway Scenario](description_images/Motorway_cutin.png)
+![Highway Scenario](description_images/Motoway_cutin.png)
 
 ---
 
